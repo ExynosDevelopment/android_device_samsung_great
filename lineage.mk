@@ -15,7 +15,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_greatlte
-PRODUCT_DEVICE := dreamlte
+PRODUCT_DEVICE := greatlte
 PRODUCT_MODEL := SM-N950F
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
