@@ -1,0 +1,6 @@
+[
+    {
+        "repository": "android_device_samsung_great-common",
+        "target_path": "device/samsung/great-common"
+    }
+]
